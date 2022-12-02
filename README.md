@@ -13,7 +13,7 @@
 <br><br>
 
 <h2>발표자료</h2>
-<img src="https://user-images.githubusercontent.com/101972179/205335323-bdf26627-7d71-49ac-843e-068e8770de54.png"  width="300"/><br>
+<img src="https://user-images.githubusercontent.com/101972179/205335323-bdf26627-7d71-49ac-843e-068e8770de54.png"  width="300"/>
 - 시연영상 : https://drive.google.com/file/d/1Jtfx2ke36rd5T6mINZRJailNZCJxq3FD/view?usp=sharing <br>
 - 발표 PPT : https://drive.google.com/file/d/1z_wfKB46_zxy3H26gZ21To96N8K6MUCM/view?usp=share_link <br>
  <br><br>
