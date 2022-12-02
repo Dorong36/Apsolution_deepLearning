@@ -2,8 +2,6 @@
 
 <img src="https://user-images.githubusercontent.com/101972179/204210605-c96da87b-40e4-4c85-a84c-b41def8918d7.png"  width="200" height="200"/>
 
-<br>
-
 - Apsolution은 사진촬영을 통한 사과나무 질병 진단 서비스를 제공합니다.
 - 추가적으로 전문가 연계 및 영농일지 서비스를 제공합니다.
 - 본 파일은 해당 서비스에서 질병 진단을 위한 딥러닝 파일입니다.
