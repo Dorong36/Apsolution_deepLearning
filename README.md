@@ -11,7 +11,11 @@
 - 전체 서비스에 대한 전반적 내용은 아래 내용을 참고해주세요.
  
 <br><br>
- 
+
+<h2>발표자료</h2>
+- 시연영상 : https://drive.google.com/file/d/1Jtfx2ke36rd5T6mINZRJailNZCJxq3FD/view?usp=sharing <br>
+- 발표 PPT : https://docs.google.com/presentation/d/1jkNR9oDd6iku2axvxvy3yjI5TmB0xE_7/edit?usp=share_link&ouid=113465195135182805632&rtpof=true&sd=true <br>
+ <br><br>
  <h2>주요 내용</h2>
 
 
